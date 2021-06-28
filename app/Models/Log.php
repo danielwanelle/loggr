@@ -12,7 +12,7 @@ class Log extends Model
      * @var array
      */
     protected $fillable = [
-        'application',
+        // 'application',
         'registry',
     ];
 
